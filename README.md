@@ -1,3 +1,5 @@
+![logo](https://github.com/prashik2002/prashik2002/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Prashik Gamre</h1>
 <h3 align="center">A passionate developer</h3>
 
