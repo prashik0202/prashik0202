@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
     <h1 align="center">Hi 👋, I'm Prashik Gamre</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -34,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashik2002&show_icons=true&locale=en" alt="prashik2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashik2002&" alt="prashik2002" /></p>
-</body>
-</html>
+
