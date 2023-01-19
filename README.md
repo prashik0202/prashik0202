@@ -10,6 +10,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prashik2002&icon=5&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=prashik2002&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
