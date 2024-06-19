@@ -1,5 +1,3 @@
 
-### Prashik Gamre
-#### Full Stack Developer
-
+### Prashik Gamre Full Stack Developer
 
